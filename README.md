@@ -121,7 +121,7 @@ Yes, please! If you have a better idea or you just want to improve this project,
 
 ## TODO
 * [ ] File integrity checks
-
+* [ ] Research "Installer5" urlScheme
 * [x] Deny debugger
 
 ## License
