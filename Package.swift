@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
   name: "IOSSecuritySuite",
   platforms: [
-    .iOS(.v11)
+    .iOS(.v18)
   ],
   products: [
     .library(name: "IOSSecuritySuite", targets: ["IOSSecuritySuite"])
