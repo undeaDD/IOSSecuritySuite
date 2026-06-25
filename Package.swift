@@ -18,5 +18,5 @@ let package = Package(
       resources: [.copy("Resources/PrivacyInfo.xcprivacy")]
     )
   ],
-  swiftLanguageVersions: [.v4_2, .v5]
+  swiftLanguageModes: [.v5]
 )
